@@ -22,25 +22,41 @@ Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma
 
 ## Meus Principais Conhecimentos
 #### Front-end
-- HTML <img align="center" alt="HTML" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-- CSS <img align="center" alt="CSS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-- JavaScript <img align="center" alt="Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-- React <img align="center" alt="React" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-- React Native <img align="center" alt="React Native" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+- HTML 
+- CSS 
+- JavaScript 
+- React 
+- React Native
+- Next
+- Tailwind
+- Bootstrap
+
 
 #### Back-end
-- Python <img align="center" alt="Python" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-- TypeScript <img align="center" alt="Ts" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-- NodeJS <img align="center" alt="Node" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+- Python
+- Django
+- pandas
+- TypeScript 
+- NodeJS
+- Jest
+- NestJS
+- Express
+- RabbitMQ
   
 #### Banco De Dados
-- PostgreSQL <img align="center" alt="PostgreSQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-- MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-- MongoDB <img align="center" alt="MongoDB" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+- PostgreSQL
+- MySQL 
+- MongoDB 
 
 #### DevOps
-- AWS <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-- Git <img align="center" alt="Git" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+- AWS 
+- Git
+
+#### Outros
+- Scrum
+- Docker
+- DatoCMS
+- PowerBI
 
 **Conhecimentos que desejo aprimorar**:
 - Django, para melhorar minhas habilidades de desenvolvimento web em Python.
