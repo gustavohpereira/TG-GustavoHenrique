@@ -15,9 +15,9 @@
 
 ## Introdução
 
-Sou o Gustavo Henrique, tenho 21 anos e atualmente curso o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos (FATEC-SJC). Realizei um tecnico em assistente administrativo enquanto fazia ensino medio, eu me formei no ensino medio e me interessei pela area tech.Minha jornada na área de tecnologia começou no início de 2022, quando me dediquei a aprender HTML e CSS por meio de cursos online. Pouco depois, iniciei meus estudos na FATEC, onde expandi meu conhecimento em diversas linguagens de programação, como Python, Java e TypeScript.
+Sou o Gustavo Henrique, tenho 21 anos e atualmente curso o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos (FATEC-SJC). Realizei um curso técnico em assistente administrativo enquanto cursava o ensino médio. Após me formar, me interessei pela área de tecnologia. Minha jornada nessa área começou no início de 2022, quando me dediquei a aprender HTML e CSS por meio de cursos online. Logo depois, iniciei meus estudos na FATEC, onde expandi meu conhecimento em várias linguagens de programação, como Python, Java e TypeScript.
 
-Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma startup localizada em São Paulo, chamada Giorgio. Essa experiência foi fundamental para solidificar meu conhecimento prático. Além do estágio, também desenvolvi projetos como freelancer e criei iniciativas pessoais de estudo, buscando aprimorar continuamente minhas habilidades no desenvolvimento de software e me preparar para os desafios futuros.
+Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma startup localizada em São Paulo, chamada Giorgio. Essa experiência foi fundamental para solidificar meu conhecimento prático. Além do estágio, também desenvolvi projetos como freelancer e criei iniciativas pessoais de estudo, buscando aprimorar continuamente minhas habilidades no desenvolvimento de software e me preparar para desafios futuros.
 
 
 ## Meus Principais Conhecimentos
@@ -71,6 +71,7 @@ Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma
 
 **Data:** *Agosto/2022*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Professor responsavel***JEAN CARLOS LOURENCO COSTA*</br></br>
 **Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br></br>
 **Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado</br></br>
 
@@ -129,13 +130,14 @@ Minhas principais contribuições no projeto foram:
 
 **Data:** *Janeiro/2023*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Professor responsavel***Bertotti*</br></br>
 **Desafio:** Desenvolver uma aplicação para organizar aulas, alunos, avaliações, notas e atividades, com foco na operação totalmente offline para garantir flexibilidade em ambientes sem internet.</br></br>
 **Solução:** Desenvolvemos uma aplicação desktop em Java, que permite a organização completa do ambiente acadêmico, desde a inserção de alunos até a geração de relatórios de avaliações e notas, operando sem conexão à internet.</br></br>
 
 **GitHub:** [Projeto](https://github.com/MirageGroup/API_MirageGroup_2sem)</br></br>
 
 <div align="center">
-<img src="./img/exemplo_projeto2.png" alt="Imagem do projeto 2" width="600" height="450">
+<img src="./img/gifAPI2.gif" alt="Imagem do projeto 2" width="600" height="450">
 </div>
 
 ### Tecnologias Utilizadas
@@ -173,13 +175,14 @@ Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garant
 
 **Data:** *julho/2023*</br></br>
 **Empresa:** *Ionic Health*</br></br>
+**Professor responsavel***FERNANDO MASANORI ASHIKAGA*</br></br>
 **Desafio:** Desenvolver uma plataforma para gerenciamento de equipes e projetos, que permitisse a organização de tarefas e a manutenção de um fluxo eficiente de trabalho com metodologia ágil.</br></br>
 **Solução:** Criamos uma aplicação em React com uma interface kanban que permite aos usuários organizarem suas tarefas e equipes de forma visual. Incluímos também a funcionalidade de armazenar evidências e o acompanhamento do progresso dos projetos.</br></br>
 
 **GitHub:** [linkDoProjeto](https://github.com/MirageGroup/API_MirageGroup_3sem)</br></br>
 
 <div align="center">
-![image](https://github.com/user-attachments/assets/3d6706a3-6775-4570-8182-d6275185575e)
+<img src="./img/imgAPI3.png" alt="Imagem do projeto 3" width="600" height="450">
 </div>
 
 ### Tecnologias Utilizadas
@@ -219,13 +222,14 @@ Implementei a **funcionalidade kanban**, permitindo que os usuários organizasse
 
 **Data:** *Março/2024*</br></br>
 **Empresa:** *SIATT*</br></br>
+**Professor responsavel***FABIANO SABHA WALCZAK*</br></br>
 **Desafio:** Criar uma solução integrada para gerenciar salas de reuniões físicas, híbridas e virtuais, permitindo a criação de atas, controle de permissões e conexão direta ao Zoom.</br></br>
 **Solução:** Desenvolvemos uma plataforma que facilita o agendamento e a gestão de reuniões, oferecendo a possibilidade de conexão com o Zoom e controle de pautas e permissões dos usuários, tudo de forma integrada em uma interface amigável.</br></br>
 
 **GitHub:** [linkDoProjeto](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
 
 <div align="center">
-<img src="./img/exemplo_projeto4.png" alt="Imagem do projeto 4" width="600" height="450">
+<img src="./img/API4.jpeg" alt="Imagem do projeto 4" width="600" height="450">
 </div>
 
 ### Tecnologias Utilizadas
