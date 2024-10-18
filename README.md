@@ -71,7 +71,7 @@ Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma
 
 **Data:** *Agosto/2022*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Professor responsavel***JEAN CARLOS LOURENCO COSTA*</br></br>
+**Professor responsavel: ***JEAN CARLOS LOURENCO COSTA*</br></br>
 **Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br></br>
 **Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado</br></br>
 
@@ -106,20 +106,18 @@ Minhas principais contribuições no projeto foram:
 
 ### Hard Skills
 
-- **HTML5**: Desenvolvimento de interfaces web de forma estruturada.
-- **CSS**: Estilização avançada de elementos com foco em responsividade e usabilidade.
-- **JavaScript**: Criação de interatividade e funcionalidades dinâmicas na aplicação.
-- **Flask**: Implementação de rotas e APIs para comunicação entre o frontend e o backend.
-- **MySQL**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados.
-- **AWS**: Implementação de soluções escaláveis na nuvem.
+- **HTML5**: Faço/uso com autonomia.
+- **CSS**: Faço/uso com autonomia.
+- **JavaScript**: Faço/uso com autonomia.
+- **Flask**:  Faço/uso com ajuda.
+- **MySQL**: Faço/uso com autonomia.
+- **AWS**: Faço/uso com ajuda.
 
 ---
 
 ### Soft Skills
 
-- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
-- **Trabalho em equipe**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
-- **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
+Neste semestre conduzi reuniões com as equipes para discutirmos sobre o projeto, atuei com os membros da equipe para que o projeto continuasse efetivamente, e apliquei a gestão de tempo para que eu pudesse me organizar melhor
 
 </details>
 
@@ -130,7 +128,7 @@ Minhas principais contribuições no projeto foram:
 
 **Data:** *Janeiro/2023*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Professor responsavel***Bertotti*</br></br>
+**Professor responsavel: ***Bertotti*</br></br>
 **Desafio:** Desenvolver uma aplicação para organizar aulas, alunos, avaliações, notas e atividades, com foco na operação totalmente offline para garantir flexibilidade em ambientes sem internet.</br></br>
 **Solução:** Desenvolvemos uma aplicação desktop em Java, que permite a organização completa do ambiente acadêmico, desde a inserção de alunos até a geração de relatórios de avaliações e notas, operando sem conexão à internet.</br></br>
 
@@ -156,16 +154,14 @@ Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garant
 
 ### Hard Skills
 
-- **Java**: Utilizado com autonomia.
-- **JavaFX**: Desenvolvimento de interfaces gráficas com Scene Builder.
-- **SQLite**: Implementação de banco de dados local.
-
+- **Java**: Faço/uso com autonomia.
+- **JavaFX**: Faço/uso com ajuda.
+- **SQLite**: Faço/uso com autonomia.
 ---
 
 ### Soft Skills
 
-- **Colaboração**: Trabalhei em estreita colaboração com a professora parceira para definir os requisitos funcionais.
-- **Resolução de Problemas**: Encontrei e resolvi questões relacionadas à sincronização de dados offline e à performance do banco de dados.
+Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero e lidar com uma aplicação desktop, algo completamente novo para a equipe. Mantive o espírito de equipe elevado, organizando um encontro na casa de um dos membros para que pudéssemos programar juntos, o que ajudou a manter todos motivados. Além disso, sempre que surgiam erros no código Java, demonstrei proatividade ao ajudar meus colegas a resolvê-los, garantindo que o projeto continuasse a progredir sem grandes obstáculos.
 </details>
 
 
@@ -175,7 +171,7 @@ Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garant
 
 **Data:** *julho/2023*</br></br>
 **Empresa:** *Ionic Health*</br></br>
-**Professor responsavel***FERNANDO MASANORI ASHIKAGA*</br></br>
+**Professor responsavel: ***FERNANDO MASANORI ASHIKAGA*</br></br>
 **Desafio:** Desenvolver uma plataforma para gerenciamento de equipes e projetos, que permitisse a organização de tarefas e a manutenção de um fluxo eficiente de trabalho com metodologia ágil.</br></br>
 **Solução:** Criamos uma aplicação em React com uma interface kanban que permite aos usuários organizarem suas tarefas e equipes de forma visual. Incluímos também a funcionalidade de armazenar evidências e o acompanhamento do progresso dos projetos.</br></br>
 
@@ -202,17 +198,16 @@ Implementei a **funcionalidade kanban**, permitindo que os usuários organizasse
 
 ### Hard Skills
 
-- **TypeScript**: Uso com autonomia no desenvolvimento frontend e backend.
-- **React**: Implementação de funcionalidades interativas.
-- **Node.js**: Desenvolvimento de backend com conexão a banco de dados SQL.
-- **TypeORM**: Mapeamento objeto-relacional com banco de dados SQL.
+- **TypeScript**: Faço/uso com autonomia.
+- **React**: Faço/uso com autonomia.
+- **Node.js**: Faço/uso com autonomia.
+- **TypeORM**: Faço/uso com autonomia.
 
 ---
 
 ### Soft Skills
 
-- **Liderança**: Fui responsável por coordenar a equipe de desenvolvimento e garantir o cumprimento dos prazos.
-- **Gestão de Tempo**: Utilizei técnicas de priorização para gerenciar as tarefas de desenvolvimento dentro do cronograma ágil.
+Neste semestre, já tinha estudado React durante as férias, o que me permitiu auxiliar meus colegas no desenvolvimento da aplicação. Assumi um papel de liderança ao ensinar os conceitos de React e orientar o grupo na construção do projeto. Além disso, percebi que seria útil para a equipe adotar um sistema de kanban para organizar as tarefas, então tomei a iniciativa de implementar essa funcionalidade no sistema. Meu papel proativo foi fundamental para o sucesso do projeto.
 </details>
 
 
@@ -222,7 +217,7 @@ Implementei a **funcionalidade kanban**, permitindo que os usuários organizasse
 
 **Data:** *Março/2024*</br></br>
 **Empresa:** *SIATT*</br></br>
-**Professor responsavel***FABIANO SABHA WALCZAK*</br></br>
+**Professor responsavel: ***FABIANO SABHA WALCZAK*</br></br>
 **Desafio:** Criar uma solução integrada para gerenciar salas de reuniões físicas, híbridas e virtuais, permitindo a criação de atas, controle de permissões e conexão direta ao Zoom.</br></br>
 **Solução:** Desenvolvemos uma plataforma que facilita o agendamento e a gestão de reuniões, oferecendo a possibilidade de conexão com o Zoom e controle de pautas e permissões dos usuários, tudo de forma integrada em uma interface amigável.</br></br>
 
@@ -251,18 +246,17 @@ Fui responsável por desenvolver a **interface front-end e responsividade**, cri
 
 ### Hard Skills
 
-- **React**: Implementação de interface de usuário responsiva.
-- **TypeScript**: Desenvolvimento frontend e backend.
-- **Node.js**: Gerenciamento de backend com integração de APIs.
-- **TypeORM**: Mapeamento objeto-relacional com banco de dados.
-- **API do Zoom**: Conexão e integração com o Zoom.
-- **AWS**: Gerenciamento e implementação de soluções na nuvem.
+- **React**: Faço/uso com autonomia.
+- **TypeScript**: Faço/uso com autonomia.
+- **Node.js**: Faço/uso com autonomia.
+- **TypeORM**: Faço/uso com autonomia.
+- **API do Zoom**: Faço/uso com ajuda.
+- **AWS**: Faço/uso com ajuda.
 
 ---
 
 ### Soft Skills
 
-- **Proatividade**: Identifiquei a necessidade de automatizar o envio de convites para reuniões, o que resultou em uma experiência de usuário mais fluida.
-- **Colaboração**: Trabalhei em conjunto com os membros da equipe para garantir que todas as funcionalidades estivessem perfeitamente integradas.
+Por já estarmos familiarizados com as tecnologias utilizadas, como React, TypeScript e Node.js, decidi focar na experiência do usuário (UX) e pensar na aplicação a partir da perspectiva do cliente. Tomei a iniciativa de melhorar a usabilidade do sistema, criando uma interface que fosse simples e eficiente. Além disso, fui responsável por implementar o disparo automático de e-mails para os participantes das reuniões, assegurando uma comunicação eficaz.
 </details>
 
