@@ -179,7 +179,7 @@ Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garant
 **GitHub:** [linkDoProjeto](https://github.com/MirageGroup/API_MirageGroup_3sem)</br></br>
 
 <div align="center">
-<img src="./img/exemplo_projeto3.png" alt="Imagem do projeto 3" width="600" height="450">
+![image](https://github.com/user-attachments/assets/3d6706a3-6775-4570-8182-d6275185575e)
 </div>
 
 ### Tecnologias Utilizadas
