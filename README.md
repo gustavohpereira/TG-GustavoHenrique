@@ -127,12 +127,12 @@ Minhas principais contribuições no projeto foram:
 <summary>2º Semestre</summary>
 </br>
 
-**Data:** *Julho/2023*</br></br>
+**Data:** *Janeiro/2023*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
 **Desafio:** Desenvolver uma aplicação para organizar aulas, alunos, avaliações, notas e atividades, com foco na operação totalmente offline para garantir flexibilidade em ambientes sem internet.</br></br>
 **Solução:** Desenvolvemos uma aplicação desktop em Java, que permite a organização completa do ambiente acadêmico, desde a inserção de alunos até a geração de relatórios de avaliações e notas, operando sem conexão à internet.</br></br>
 
-**GitHub:** [linkDoProjeto](#)</br></br>
+**GitHub:** [Projeto](https://github.com/MirageGroup/API_MirageGroup_2sem)</br></br>
 
 <div align="center">
 <img src="./img/exemplo_projeto2.png" alt="Imagem do projeto 2" width="600" height="450">
@@ -171,12 +171,12 @@ Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garant
 <summary>3º Semestre</summary>
 </br>
 
-**Data:** *Dezembro/2023*</br></br>
+**Data:** *julho/2023*</br></br>
 **Empresa:** *Ionic Health*</br></br>
 **Desafio:** Desenvolver uma plataforma para gerenciamento de equipes e projetos, que permitisse a organização de tarefas e a manutenção de um fluxo eficiente de trabalho com metodologia ágil.</br></br>
 **Solução:** Criamos uma aplicação em React com uma interface kanban que permite aos usuários organizarem suas tarefas e equipes de forma visual. Incluímos também a funcionalidade de armazenar evidências e o acompanhamento do progresso dos projetos.</br></br>
 
-**GitHub:** [linkDoProjeto](#)</br></br>
+**GitHub:** [linkDoProjeto](https://github.com/MirageGroup/API_MirageGroup_3sem)</br></br>
 
 <div align="center">
 <img src="./img/exemplo_projeto3.png" alt="Imagem do projeto 3" width="600" height="450">
@@ -193,7 +193,7 @@ Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garant
 
 ### Contribuições Pessoais
 
-Implementei a **funcionalidade kanban**, permitindo que os usuários organizassem suas tarefas visualmente, e criei a integração com o backend em **Node.js** utilizando **TypeORM** para gerenciamento de banco de dados.
+Implementei a **funcionalidade kanban**, permitindo que os usuários organizassem suas tarefas visualmente com o drag and drop, e trabalhei na integração com o backend em **Node.js** utilizando **TypeORM** para gerenciamento de banco de dados. Alem de criar o sistema de mensagem no email quando uma reunião for criada ou deletada
 
 ---
 
@@ -222,7 +222,7 @@ Implementei a **funcionalidade kanban**, permitindo que os usuários organizasse
 **Desafio:** Criar uma solução integrada para gerenciar salas de reuniões físicas, híbridas e virtuais, permitindo a criação de atas, controle de permissões e conexão direta ao Zoom.</br></br>
 **Solução:** Desenvolvemos uma plataforma que facilita o agendamento e a gestão de reuniões, oferecendo a possibilidade de conexão com o Zoom e controle de pautas e permissões dos usuários, tudo de forma integrada em uma interface amigável.</br></br>
 
-**GitHub:** [linkDoProjeto](#)</br></br>
+**GitHub:** [linkDoProjeto](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
 
 <div align="center">
 <img src="./img/exemplo_projeto4.png" alt="Imagem do projeto 4" width="600" height="450">
@@ -241,7 +241,7 @@ Implementei a **funcionalidade kanban**, permitindo que os usuários organizasse
 
 ### Contribuições Pessoais
 
-Fui responsável por desenvolver a **integração com a API do Zoom**, criando uma experiência de reunião integrada e automatizando o envio de convites e notificações para os participantes.
+Fui responsável por desenvolver a **interface front-end e responsividade**, criando uma experiência de usuario otimizada e com compatibilidade com diversos dispositivos.
 
 ---
 
