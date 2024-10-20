@@ -66,7 +66,7 @@ Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma
 
 ## Meus Projetos
 <details>
-<summary>1º Semestre (2020 - 2)</summary>
+<summary>1º Semestre (2022 - 2)</summary>
 </br>
 
 **Data:** *Agosto/2022*</br></br>
