@@ -128,7 +128,7 @@ Neste semestre conduzi reuniões com as equipes para discutirmos sobre o projeto
 
 **Data:** *Janeiro/2023*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Professor responsavel: ***Bertotti*</br></br>
+**Professor responsavel: ***Cláudio*</br></br>
 **Desafio:** Desenvolver uma aplicação para organizar aulas, alunos, avaliações, notas e atividades, com foco na operação totalmente offline para garantir flexibilidade em ambientes sem internet.</br></br>
 **Solução:** Desenvolvemos uma aplicação desktop em Java, que permite a organização completa do ambiente acadêmico, desde a inserção de alunos até a geração de relatórios de avaliações e notas, operando sem conexão à internet.</br></br>
 
@@ -171,7 +171,7 @@ Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero 
 
 **Data:** *julho/2023*</br></br>
 **Empresa:** *Ionic Health*</br></br>
-**Professor responsavel: ***FERNANDO MASANORI ASHIKAGA*</br></br>
+**Professor responsavel: ***Cláudio *</br></br>
 **Desafio:** Desenvolver uma plataforma para gerenciamento de equipes e projetos, que permitisse a organização de tarefas e a manutenção de um fluxo eficiente de trabalho com metodologia ágil.</br></br>
 **Solução:** Criamos uma aplicação em React com uma interface kanban que permite aos usuários organizarem suas tarefas e equipes de forma visual. Incluímos também a funcionalidade de armazenar evidências e o acompanhamento do progresso dos projetos.</br></br>
 
