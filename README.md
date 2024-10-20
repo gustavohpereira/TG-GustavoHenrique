@@ -66,7 +66,7 @@ Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma
 
 ## Meus Projetos
 <details>
-<summary>1º Semestre</summary>
+<summary>1º Semestre (2020 - 2)</summary>
 </br>
 
 **Data:** *Agosto/2022*</br></br>
@@ -123,7 +123,7 @@ Neste semestre conduzi reuniões com as equipes para discutirmos sobre o projeto
 
 
 <details>
-<summary>2º Semestre</summary>
+<summary>2º Semestre (2023 - 1)</summary>
 </br>
 
 **Data:** *Janeiro/2023*</br></br>
@@ -148,7 +148,7 @@ Neste semestre conduzi reuniões com as equipes para discutirmos sobre o projeto
 
 ### Contribuições Pessoais
 
-Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garantindo que as informações fossem salvas corretamente no banco de dados SQLite e criando uma interface amigável em JavaFX para visualização e edição.
+Neste projeto atuei como PO e levantei os requisitos e conversei com o cliente, sempre levantando requisitos.Tambem Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garantindo que as informações fossem salvas corretamente no banco de dados SQLite e criando uma interface amigável em JavaFX para visualização e edição.
 
 ---
 
@@ -166,7 +166,7 @@ Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero 
 
 
 <details>
-<summary>3º Semestre</summary>
+<summary>3º Semestre (2023 - 2)</summary>
 </br>
 
 **Data:** *julho/2023*</br></br>
@@ -192,7 +192,7 @@ Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero 
 
 ### Contribuições Pessoais
 
-Implementei a **funcionalidade kanban**, permitindo que os usuários organizassem suas tarefas visualmente com o drag and drop, e trabalhei na integração com o backend em **Node.js** utilizando **TypeORM** para gerenciamento de banco de dados. Alem de criar o sistema de mensagem no email quando uma reunião for criada ou deletada
+Neste projeto atuei como desenvolvedor,Implementei a **funcionalidade kanban**, permitindo que os usuários organizassem suas tarefas visualmente com o drag and drop, e trabalhei na integração com o backend em **Node.js** utilizando **TypeORM** para gerenciamento de banco de dados. Alem de criar o sistema de mensagem no email quando uma reunião for criada ou deletada
 
 ---
 
@@ -207,15 +207,15 @@ Implementei a **funcionalidade kanban**, permitindo que os usuários organizasse
 
 ### Soft Skills
 
-Neste semestre, já tinha estudado React durante as férias, o que me permitiu auxiliar meus colegas no desenvolvimento da aplicação. Assumi um papel de liderança ao ensinar os conceitos de React e orientar o grupo na construção do projeto. Além disso, percebi que seria útil para a equipe adotar um sistema de kanban para organizar as tarefas, então tomei a iniciativa de implementar essa funcionalidade no sistema. Meu papel proativo foi fundamental para o sucesso do projeto.
+Neste semestre, já tinha estudado React durante as férias, o que me permitiu auxiliar meus colegas no desenvolvimento da aplicação. Assumi um papel de liderança ao ensinar os conceitos de React e orientar o grupo na construção do projeto. Além disso, percebi que seria útil para a equipe adotar um sistema de kanban para organizar as tarefas, então tomei a iniciativa de implementar essa funcionalidade no sistema. Acredito que exercitei a minha proatividade e tambem o olhar para requisitos, dando uma ação a mais quando necessario
 </details>
 
 
 <details>
-<summary>4º Semestre</summary>
+<summary>4º Semestre (2024 - 1)</summary>
 </br>
 
-**Data:** *Março/2024*</br></br>
+**Data:** *fevereiro/2024*</br></br>
 **Empresa:** *SIATT*</br></br>
 **Professor responsavel: ***FABIANO SABHA WALCZAK*</br></br>
 **Desafio:** Criar uma solução integrada para gerenciar salas de reuniões físicas, híbridas e virtuais, permitindo a criação de atas, controle de permissões e conexão direta ao Zoom.</br></br>
@@ -257,6 +257,6 @@ Fui responsável por desenvolver a **interface front-end e responsividade**, cri
 
 ### Soft Skills
 
-Por já estarmos familiarizados com as tecnologias utilizadas, como React, TypeScript e Node.js, decidi focar na experiência do usuário (UX) e pensar na aplicação a partir da perspectiva do cliente. Tomei a iniciativa de melhorar a usabilidade do sistema, criando uma interface que fosse simples e eficiente. Além disso, fui responsável por implementar o disparo automático de e-mails para os participantes das reuniões, assegurando uma comunicação eficaz.
+Por já estarmos familiarizados com as tecnologias utilizadas  decidi focar na experiência do usuário, e conversar com o grupo quais as melhores decisões para o cliente, assim, exercitei a minha soft skill de comunicação com o grupo, com a primeira sprint marcada por um brainstorm do grupo, assim como cada sprint conter dialogos entre todos para melhorar o produto
 </details>
 
