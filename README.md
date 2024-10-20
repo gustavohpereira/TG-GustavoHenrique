@@ -10,7 +10,7 @@
 
 - **GitHub**: [gustavohpereira](https://github.com/gustavohpereira)
 - **LinkedIn**: [linkedin](https://www.linkedin.com/in/gustavohpa/)
-- **email** : [gustavohpa2003@gmail.com](gustavohpa2003@gmail.com)
+- **email**: [gustavohpa2003@gmail.com](gustavohpa2003@gmail.com)
 
 
 ## Introdução
@@ -69,11 +69,11 @@ Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma
 <summary>1º Semestre (2022 - 2)</summary>
 </br>
 
-**Data:** *Agosto/2022*</br></br>
+**Data:** *agosto/2022*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Professor responsavel: ***JEAN CARLOS LOURENCO COSTA*</br></br>
-**Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br></br>
-**Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado</br></br>
+**Professor responsável: ***JEAN CARLOS LOURENCO COSTA*</br></br>
+**Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz. </br></br>
+**Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o técnico, e também possibilita a visualização rápida do técnico para saber quais máquinas estão em cada sala, e também seu estado, podendo ser personalizado</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup)</br></br>
 
@@ -98,7 +98,7 @@ Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma
 
 Minhas principais contribuições no projeto foram:
 
-- Implementação do **monitoramento automático das máquinas**, criando uma integração que analisava em tempo real o estado dos equipamentos e notificava os técnicos em caso de falhas e atualizava com base em chamados feitos para o tecnico. Utilizei **JavaScript** e **Flask** para essa funcionalidade.
+- Implementação do **monitoramento automático das máquinas**, criando uma integração que analisava em tempo real o estado dos equipamentos e notificava os técnicos em caso de falhas e atualizava com base em chamados feitos para o técnico. Utilizei **JavaScript** e **Flask** para essa funcionalidade.
 - Desenvolvimento da funcionalidade de **gestão de chamados**, que permitia criar e gerenciar tickets de manutenção técnica. Trabalhei diretamente na interação entre o frontend e o backend, garantindo que os chamados fossem armazenados corretamente no **MySQL**.
 - Atuei também na **reorganização virtual das máquinas**, utilizando **JavaScript** para a funcionalidade de drag and drop, o que permitiu que os técnicos pudessem visualizar e reorganizar os computadores nas salas.
 
@@ -117,20 +117,20 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-Neste semestre conduzi reuniões com as equipes para discutirmos sobre o projeto, atuei com os membros da equipe para que o projeto continuasse efetivamente, e apliquei a gestão de tempo para que eu pudesse me organizar melhor
+Neste semestre conduzi reuniões com as equipes para discutirmos sobre o projeto, demonstrando comunicação em equipe e também contato com a equipe. Atuei com os membros da equipe para que o projeto continuasse efetivamente, e apliquei a soft skill de  gestão de tempo para que eu pudesse me organizar melhor, utilizando ferramentas de gestão. Por ser nossa primeira API, foi de crucial importância eu me comunicar com todos, e unir a experiencia de cada um, assim conseguimos distribuir com mais eficiência as tarefas, alinhando com a experiencia de cada um no momento
 
 </details>
 
 
 <details>
-<summary>2º Semestre (2023 - 1)</summary>
+<summary>2º Semestre (2023 - 1) </summary>
 </br>
 
-**Data:** *Janeiro/2023*</br></br>
+**Data:** *janeiro/2023*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
 **Professor responsavel: ***CLAUDIO ETELVINO DE LIMA*</br></br>
-**Desafio:** Desenvolver uma aplicação para organizar aulas, alunos, avaliações, notas e atividades, com foco na operação totalmente offline para garantir flexibilidade em ambientes sem internet.</br></br>
-**Solução:** Desenvolvemos uma aplicação desktop em Java, que permite a organização completa do ambiente acadêmico, desde a inserção de alunos até a geração de relatórios de avaliações e notas, operando sem conexão à internet.</br></br>
+**Desafio:** Desenvolver uma aplicação para organizar aulas, alunos, avaliações, notas e atividades, com foco na operação totalmente offline para garantir flexibilidade em ambientes sem internet. </br></br>
+**Solução:** Desenvolvemos uma aplicação desktop em Java, que permite a organização completa do ambiente acadêmico, desde a inserção de alunos até a geração de relatórios de avaliações e notas, operando sem conexão à internet. </br></br>
 
 **GitHub:** [Projeto](https://github.com/MirageGroup/API_MirageGroup_2sem)</br></br>
 
@@ -148,7 +148,7 @@ Neste semestre conduzi reuniões com as equipes para discutirmos sobre o projeto
 
 ### Contribuições Pessoais
 
-Neste projeto atuei como PO e levantei os requisitos e conversei com o cliente, sempre levantando requisitos.Tambem Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garantindo que as informações fossem salvas corretamente no banco de dados SQLite e criando uma interface amigável em JavaFX para visualização e edição.
+Neste projeto atuei como PO e levantei os requisitos e conversei com o cliente, sempre levantando requisitos. Também Desenvolvi a funcionalidade de **gerenciamento de notas e avaliações**, garantindo que as informações fossem salvas corretamente no banco de dados SQLite e criando uma interface amigável em JavaFX para visualização e edição.
 
 ---
 
@@ -161,7 +161,7 @@ Neste projeto atuei como PO e levantei os requisitos e conversei com o cliente, 
 
 ### Soft Skills
 
-Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero e lidar com uma aplicação desktop, algo completamente novo para a equipe. Mantive o espírito de equipe elevado, organizando um encontro na casa de um dos membros para que pudéssemos programar juntos, o que ajudou a manter todos motivados. Além disso, sempre que surgiam erros no código Java, demonstrei proatividade ao ajudar meus colegas a resolvê-los, garantindo que o projeto continuasse a progredir sem grandes obstáculos.
+Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero e lidar com uma aplicação desktop, algo completamente novo para a equipe. Mantive o espírito de equipe elevado, organizando um encontro na casa de um dos membros para que pudéssemos programar juntos, o que ajudou a manter todos motivados. Além disso, sempre que surgiam erros no código Java, demonstrei proatividade ao ajudar meus colegas a resolverem-nos, garantindo que o projeto continuasse a progredir sem grandes obstáculos.
 </details>
 
 
@@ -171,9 +171,9 @@ Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero 
 
 **Data:** *julho/2023*</br></br>
 **Empresa:** *Ionic Health*</br></br>
-**Professor responsavel: ***CLAUDIO ETELVINO DE LIMA*</br></br>
-**Desafio:** Desenvolver uma plataforma para gerenciamento de equipes e projetos, que permitisse a organização de tarefas e a manutenção de um fluxo eficiente de trabalho com metodologia ágil.</br></br>
-**Solução:** Criamos uma aplicação em React com uma interface kanban que permite aos usuários organizarem suas tarefas e equipes de forma visual. Incluímos também a funcionalidade de armazenar evidências e o acompanhamento do progresso dos projetos.</br></br>
+**Professor responsável: ***CLAUDIO ETELVINO DE LIMA*</br></br>
+**Desafio:** Desenvolver uma plataforma para gerenciamento de equipes e projetos, que permitisse a organização de tarefas e a manutenção de um fluxo eficiente de trabalho com metodologia ágil. </br></br>
+**Solução:** Criamos uma aplicação em React com uma interface kanban que permite aos usuários organizarem suas tarefas e equipes de forma visual. Incluímos também a funcionalidade de armazenar evidências e o acompanhamento do progresso dos projetos. </br></br>
 
 **GitHub:** [linkDoProjeto](https://github.com/MirageGroup/API_MirageGroup_3sem)</br></br>
 
@@ -192,7 +192,7 @@ Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero 
 
 ### Contribuições Pessoais
 
-Neste projeto atuei como desenvolvedor,Implementei a **funcionalidade kanban**, permitindo que os usuários organizassem suas tarefas visualmente com o drag and drop, e trabalhei na integração com o backend em **Node.js** utilizando **TypeORM** para gerenciamento de banco de dados. Alem de criar o sistema de mensagem no email quando uma reunião for criada ou deletada
+Neste projeto atuei como desenvolvedor, Implementei a **funcionalidade kanban**, permitindo que os usuários organizassem suas tarefas visualmente com o drag and drop, e trabalhei na integração com o backend em **Node.js** utilizando **TypeORM** para gerenciamento de banco de dados. Além de criar o sistema de mensagem no Email quando uma reunião for criada ou deletada
 
 ---
 
@@ -207,7 +207,7 @@ Neste projeto atuei como desenvolvedor,Implementei a **funcionalidade kanban**, 
 
 ### Soft Skills
 
-Neste semestre, já tinha estudado React durante as férias, o que me permitiu auxiliar meus colegas no desenvolvimento da aplicação. Assumi um papel de liderança ao ensinar os conceitos de React e orientar o grupo na construção do projeto. Além disso, percebi que seria útil para a equipe adotar um sistema de kanban para organizar as tarefas, então tomei a iniciativa de implementar essa funcionalidade no sistema. Acredito que exercitei a minha proatividade e tambem o olhar para requisitos, dando uma ação a mais quando necessario
+Neste semestre, já tinha estudado React durante as férias, o que me permitiu auxiliar meus colegas no desenvolvimento da aplicação. Assumi um papel de liderança ao ensinar os conceitos de React e orientar o grupo na construção do projeto. Além disso, percebi que seria útil para a equipe adotar um sistema de kanban para organizar as tarefas, então tomei a iniciativa de implementar essa funcionalidade no sistema. Acredito que exercitei a minha proatividade e também o olhar para requisitos, dando uma ação a mais quando necessário
 </details>
 
 
@@ -218,8 +218,8 @@ Neste semestre, já tinha estudado React durante as férias, o que me permitiu a
 **Data:** *fevereiro/2024*</br></br>
 **Empresa:** *SIATT*</br></br>
 **Professor responsavel: ***FABIANO SABHA WALCZAK*</br></br>
-**Desafio:** Criar uma solução integrada para gerenciar salas de reuniões físicas, híbridas e virtuais, permitindo a criação de atas, controle de permissões e conexão direta ao Zoom.</br></br>
-**Solução:** Desenvolvemos uma plataforma que facilita o agendamento e a gestão de reuniões, oferecendo a possibilidade de conexão com o Zoom e controle de pautas e permissões dos usuários, tudo de forma integrada em uma interface amigável.</br></br>
+**Desafio:** Criar uma solução integrada para gerenciar salas de reuniões físicas, híbridas e virtuais, permitindo a criação de atas, controle de permissões e conexão direta ao Zoom. </br></br>
+**Solução:** Desenvolvemos uma plataforma que facilita o agendamento e a gestão de reuniões, oferecendo a possibilidade de conexão com o Zoom e controle de pautas e permissões dos usuários, tudo de forma integrada em uma interface amigável. </br></br>
 
 **GitHub:** [linkDoProjeto](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
 
@@ -240,7 +240,7 @@ Neste semestre, já tinha estudado React durante as férias, o que me permitiu a
 
 ### Contribuições Pessoais
 
-Fui responsável por desenvolver a **interface front-end e responsividade**, criando uma experiência de usuario otimizada e com compatibilidade com diversos dispositivos.
+Fui responsável por desenvolver a **interface front-end e responsividade**, criando uma experiência de usuário otimizada e com compatibilidade com diversos dispositivos.
 
 ---
 
