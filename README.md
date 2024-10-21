@@ -71,7 +71,7 @@ Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma
 
 **Data:** *agosto/2022*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Professor responsável: ***JEAN CARLOS LOURENCO COSTA*</br></br>
+**Professor responsável:** *JEAN CARLOS LOURENCO COSTA*</br></br>
 **Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz. </br></br>
 **Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o técnico, e também possibilita a visualização rápida do técnico para saber quais máquinas estão em cada sala, e também seu estado, podendo ser personalizado</br></br>
 
@@ -128,7 +128,7 @@ Neste semestre conduzi reuniões com as equipes para discutirmos sobre o projeto
 
 **Data:** *janeiro/2023*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Professor responsavel: ***CLAUDIO ETELVINO DE LIMA*</br></br>
+**Professor responsavel:** *CLAUDIO ETELVINO DE LIMA*</br></br>
 **Desafio:** Desenvolver uma aplicação para organizar aulas, alunos, avaliações, notas e atividades, com foco na operação totalmente offline para garantir flexibilidade em ambientes sem internet. </br></br>
 **Solução:** Desenvolvemos uma aplicação desktop em Java, que permite a organização completa do ambiente acadêmico, desde a inserção de alunos até a geração de relatórios de avaliações e notas, operando sem conexão à internet. </br></br>
 
@@ -171,7 +171,7 @@ Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero 
 
 **Data:** *julho/2023*</br></br>
 **Empresa:** *Ionic Health*</br></br>
-**Professor responsável: ***CLAUDIO ETELVINO DE LIMA*</br></br>
+**Professor responsável:** *CLAUDIO ETELVINO DE LIMA*</br></br>
 **Desafio:** Desenvolver uma plataforma para gerenciamento de equipes e projetos, que permitisse a organização de tarefas e a manutenção de um fluxo eficiente de trabalho com metodologia ágil. </br></br>
 **Solução:** Criamos uma aplicação em React com uma interface kanban que permite aos usuários organizarem suas tarefas e equipes de forma visual. Incluímos também a funcionalidade de armazenar evidências e o acompanhamento do progresso dos projetos. </br></br>
 
@@ -217,7 +217,7 @@ Neste semestre, já tinha estudado React durante as férias, o que me permitiu a
 
 **Data:** *fevereiro/2024*</br></br>
 **Empresa:** *SIATT*</br></br>
-**Professor responsavel: ***FABIANO SABHA WALCZAK*</br></br>
+**Professor responsavel:** *FABIANO SABHA WALCZAK*</br></br>
 **Desafio:** Criar uma solução integrada para gerenciar salas de reuniões físicas, híbridas e virtuais, permitindo a criação de atas, controle de permissões e conexão direta ao Zoom. </br></br>
 **Solução:** Desenvolvemos uma plataforma que facilita o agendamento e a gestão de reuniões, oferecendo a possibilidade de conexão com o Zoom e controle de pautas e permissões dos usuários, tudo de forma integrada em uma interface amigável. </br></br>
 
