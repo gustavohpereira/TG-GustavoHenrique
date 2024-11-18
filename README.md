@@ -72,6 +72,7 @@ Em 2023, tive a oportunidade de realizar um estágio na área de back-end em uma
 **Data:** *agosto/2022*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
 **Professor responsável:** *JEAN CARLOS LOURENCO COSTA*</br></br>
+**Problema** Um ambiente academico onde contem inumeros laboratórios precisa de uma forma de saber quais computadores estão com a execução debilitada, saber quais os problemas, e o tecnico precisa informar quais computadores estão em manutenção, quais ja estão restaurados, tudo isso de uma forma visual e fluida
 **Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz. </br></br>
 **Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o técnico, e também possibilita a visualização rápida do técnico para saber quais máquinas estão em cada sala, e também seu estado, podendo ser personalizado</br></br>
 
@@ -129,6 +130,7 @@ Neste semestre conduzi reuniões com as equipes para discutirmos sobre o projeto
 **Data:** *janeiro/2023*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
 **Professor responsavel:** *CLAUDIO ETELVINO DE LIMA*</br></br>
+**Problema** Uma professora precisa de um sistema que não dependa de internet, e que ela possa gerir completamente a sua sala de uma maneira visual, facil e rapida, assim, necessitando de uma alta disponibilidade e fluidez nos processos
 **Desafio:** Desenvolver uma aplicação para organizar aulas, alunos, avaliações, notas e atividades, com foco na operação totalmente offline para garantir flexibilidade em ambientes sem internet. </br></br>
 **Solução:** Desenvolvemos uma aplicação desktop em Java, que permite a organização completa do ambiente acadêmico, desde a inserção de alunos até a geração de relatórios de avaliações e notas, operando sem conexão à internet. </br></br>
 
@@ -171,7 +173,9 @@ Durante o desenvolvimento dessa API, tivemos o desafio de aprender Java do zero 
 
 **Data:** *julho/2023*</br></br>
 **Empresa:** *Ionic Health*</br></br>
+**Area de Atuação da empresa:** *Automação e integração de tecnologias destinadas a area medica e de saude*</br></br>
 **Professor responsável:** *CLAUDIO ETELVINO DE LIMA*</br></br>
+**Problema** Para fins de documentação e auditoria, gerir processos de uma equipe se torna um processo complexo e dificil, sem lugar para armazenar evidencias documentos sobre o processo, mas tambem sem um ambiente claro e rapido de gerenciar as etapas de projetos intensifica a problematica
 **Desafio:** Desenvolver uma plataforma para gerenciamento de equipes e projetos, que permitisse a organização de tarefas e a manutenção de um fluxo eficiente de trabalho com metodologia ágil. </br></br>
 **Solução:** Criamos uma aplicação em React com uma interface kanban que permite aos usuários organizarem suas tarefas e equipes de forma visual. Incluímos também a funcionalidade de armazenar evidências e o acompanhamento do progresso dos projetos. </br></br>
 
@@ -217,7 +221,9 @@ Neste semestre, já tinha estudado React durante as férias, o que me permitiu a
 
 **Data:** *fevereiro/2024*</br></br>
 **Empresa:** *SIATT*</br></br>
+**Area de Atuação da empresa:** *Fornece soluções de tecnologia para os setores de defesa e aeroespacial*</br></br>
 **Professor responsavel:** *FABIANO SABHA WALCZAK*</br></br>
+**Problema** muita dificuldade de administrar muitas salas em um ambiente empresarial, principalmente quando há muitas reuniões de diversos tamanhos, então reservar e cadastrar uma sala para reunião se torna um processo dificil
 **Desafio:** Criar uma solução integrada para gerenciar salas de reuniões físicas, híbridas e virtuais, permitindo a criação de atas, controle de permissões e conexão direta ao Zoom. </br></br>
 **Solução:** Desenvolvemos uma plataforma que facilita o agendamento e a gestão de reuniões, oferecendo a possibilidade de conexão com o Zoom e controle de pautas e permissões dos usuários, tudo de forma integrada em uma interface amigável. </br></br>
 
@@ -240,7 +246,8 @@ Neste semestre, já tinha estudado React durante as férias, o que me permitiu a
 
 ### Contribuições Pessoais
 
-Fui responsável por desenvolver a **interface front-end e responsividade**, criando uma experiência de usuário otimizada e com compatibilidade com diversos dispositivos.
+Fui responsável por desenvolver a **interface front-end e responsividade**, por meio do react com tailwind, realizei as interfaces home, de reuniões, criação de reuniões,criando uma experiência de usuário otimizada e com compatibilidade com diversos dispositivos.Assim como a dinamica de identificação de cada uma(puxar do banco de dados e filtrar) .
+com o uso de UseStates e UseEffects em react consegui fazer a aplicação constantemente checar as reuniões vindas do back-end, assim como horarios, quantidade de pessoas, tipo de reunião
 
 ---
 
@@ -258,5 +265,54 @@ Fui responsável por desenvolver a **interface front-end e responsividade**, cri
 ### Soft Skills
 
 Por já estarmos familiarizados com as tecnologias utilizadas  decidi focar na experiência do usuário, e conversar com o grupo quais as melhores decisões para o cliente, assim, exercitei a minha soft skill de comunicação com o grupo, com a primeira sprint marcada por um brainstorm do grupo, assim como cada sprint conter dialogos entre todos para melhorar o produto
+</details>
+<details>
+<summary>5º Semestre (2024 - 2) </summary>
+</br>
+
+**Data:** *julho/2024*</br></br>
+**Empresa:** *Kersys*</br></br>
+**Area de Atuação da empresa:** *Gestão florestal e ambiental por meio de soluções de tecnologias*</br></br>
+**Professor responsavel:** *JEAN CARLOS LOURENCO COSTA*</br></br>
+**Problema** Pequenos e medios agricultores não tem acesso a uma maneira eficiente de gerir a temperatura e outras metricas de suas zonas de plantio, necessitam de uma forma rapida de registrar e acompanhar
+**Desafio:** Desenvolver uma aplicação para monitoramento climatico de plantios e areas agricolas, fornecendo alertas e dados em tempo real </br></br>
+**Solução:** Desenvolvemos uma aplicação mobile com react native, que permite o usuario registrar, cadastrar, deletar e atualizar areas, e ter acesso aos dados metereologicos e receber alertas de clima</br></br>
+
+**GitHub:** [Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre)</br></br>
+
+<div align="center">
+<img src="./img/gifAPI5.gif" alt="Imagem do projeto 5" width="600" height="">
+</div>
+
+### Tecnologias Utilizadas
+
+- **React native**: Utilizado tanto no Front-end da aplicação
+- **TypeScript**: Linguagem utilizada para o desenvolvimento frontend e backend.
+- **Node.js**: Backend responsável por gerenciar as funcionalidades da aplicação.
+- **TypeORM**: Integração com o banco de dados para gerenciamento de informações sobre as reuniões.
+- **Firebase**: Banco de dados NOSQL para armazenar pontos de plantio e dados metereologicos
+- **MySQL**: Banco de dados relacional para cadastro de usuarios
+
+---
+
+### Contribuições Pessoais
+
+Neste projeto atuei como Dev e desenvolvi a base do back-end e conexão com o MYSQL, então realizei manutenções nos controllers de usuarios e na conexão com o banco sql. Tambem desenvolvi a tela de registro no front-end e o sistema de mudança na cor e aviso caso um ponto esteja com a temperatura acima ou abaixo do limite  garantindo que o usuario se atente de que os criterios de temperatura estão sendo ultrapassados
+
+
+### Hard Skills
+
+- **React native**: Faço/uso com autonomia.
+- **TypeScript**: Faço/uso com autonomia.
+- **Node.js**: Faço/uso com autonomia.
+- **TypeORM**: Faço/uso com autonomia.
+- **Firebase**: Faço/uso com ajuda.
+- **MySQL**: Faço/uso com autonomia.
+
+---
+
+### Soft Skills
+
+Durante o desenvolvimento deste projeto, focamos em aprimorar a organização da equipe, dividindo as responsabilidades de forma equilibrada entre todos os membros. Essa estratégia garantiu que cada pessoa pudesse contribuir de forma significativa e trabalhar dentro de sua especialidade, aumentando a eficiência e a qualidade do projeto. Mantive a comunicação clara e frequente, promovendo alinhamentos regulares para acompanhar o progresso de cada tarefa e garantindo que todos se sentissem apoiados e engajados no processo. Além disso, estimulei a colaboração ao incentivar trocas de ideias e feedbacks construtivos entre os integrantes, o que fortaleceu o trabalho em equipe e a entrega dos resultados.
 </details>
 
