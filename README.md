@@ -330,7 +330,7 @@ Além disso, o sistema conta com um módulo de Human Feedback, onde o usuário p
 **GitHub:** [Projeto]([https://github.com/MirageGroup/API_MirageGroup_5_Semestre](https://github.com/MirageGroup/API_MirageGroup_6_Semestre))</br></br>
 
 <div align="center">
-![image](https://github.com/user-attachments/assets/9b9fdac4-9bdf-4de0-aca0-5ce31401e93a)
+<img src="./img/API6.png" alt="Imagem do projeto 5" width="600" height="">
 
 </div>
 
