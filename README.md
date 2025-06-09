@@ -315,6 +315,8 @@ Neste projeto atuei como Dev e desenvolvi a base do back-end e conexão com o MY
 
 Durante o desenvolvimento deste projeto, focamos em aprimorar a organização da equipe, dividindo as responsabilidades de forma equilibrada entre todos os membros. Essa estratégia garantiu que cada pessoa pudesse contribuir de forma significativa e trabalhar dentro de sua especialidade, aumentando a eficiência e a qualidade do projeto. Mantive a comunicação clara e frequente, promovendo alinhamentos regulares para acompanhar o progresso de cada tarefa e garantindo que todos se sentissem apoiados e engajados no processo. Além disso, estimulei a colaboração ao incentivar trocas de ideias e feedbacks construtivos entre os integrantes, o que fortaleceu o trabalho em equipe e a entrega dos resultados.
 </details>
+
+<details>
 <summary>6º Semestre (2025 - 1) </summary>
 </br>
 
@@ -349,7 +351,7 @@ Além disso, o sistema conta com um módulo de Human Feedback, onde o usuário p
 
 ### Contribuições Pessoais
 
-Fui responsável por fazer manutenções na arquitetura da llm e seu prompt, além de configurar a comunicação entre o FastAPI e o front-end via Spring Boot. Trabalhei tambem em auxilios no front-end como digitação da resposta em tempo real e bugs de requisição para o spring-boot.Alem de fazer manutenções na comunicação front-spring-boot-fastAPI
+Fui responsável por fazer manutenções na arquitetura da llm e seu prompt, além de configurar a comunicação entre o FastAPI e o front-end via Spring Boot. Trabalhei tambem em auxilios no front-end como digitação da resposta em tempo real e bugs de requisição para o spring-boot.Alem de fazer manutenções na comunicação front-springBoot-fastAPI
 
 
 ### Hard Skills
