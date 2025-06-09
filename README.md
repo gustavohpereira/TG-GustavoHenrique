@@ -332,7 +332,7 @@ Além disso, o sistema conta com um módulo de Human Feedback, onde o usuário p
 **GitHub:** [Projeto](https://github.com/MirageGroup/API_MirageGroup_6_Semestre)</br></br>
 
 <div align="center">
-<img src="./img/API6.png" alt="Imagem do projeto 5" width="600" height="">
+<img src="./img/API6.png" alt="Imagem do projeto 6" width="600" height="">
 
 </div>
 
@@ -343,7 +343,9 @@ Além disso, o sistema conta com um módulo de Human Feedback, onde o usuário p
 - **TypeScript**: Linguagem utilizada para o desenvolvimento frontend.
 - **SpringBoot**: Backend responsável por gerenciar as funcionalidades de review da aplicação.
 - **Python**: Utilizado para fazer o back-end e o llm
--  **Fastapi**: Utilizado para fazer a API rest de nossa llm python
+- **Groq**: ultilizado para acelerar o processo de llm
+- **Langchain**: Ultilizado para manusear os modelos de llm
+- **Fastapi**: Utilizado para fazer a API rest de nossa llm python
 - **MongoDB**: Banco de dados NoSQL utilizado para armazenar feedbacks dos modelos.
 - **Chroma**: Banco vetorial utilizado para armazenar e recuperar documentos de forma semântica com base em embeddings, essencial para o funcionamento do RAG.
 
@@ -365,6 +367,8 @@ Fui responsável por fazer manutenções na arquitetura da llm e seu prompt, al�
 - **Fastapi**: Faço/uso com ajuda
 - **MongoDB**: Faço/uso com autonomia.
 - **Chroma**: Faço/uso com ajuda.
+- **Groq**:  Faço/uso com autonomia
+- **Langchain**: Faço/uso com autonomia
 
 ---
 
