@@ -374,6 +374,6 @@ Fui responsável por fazer manutenções na arquitetura da llm e seu prompt, al�
 
 ### Soft Skills
 
-Este projeto me desafiou a aplicar IA de forma responsável e humanizada, desenvolvendo empatia pelas dificuldades de quem cuida de pessoas com Alzheimer. Exercitei a comunicação entre áreas técnicas distintas (Java, Python, Front-end), além da organização do trabalho em equipe com foco em impacto social real. O ciclo de testes e validações com usuários simulados também fortaleceu minha visão de produto e capacidade de adaptação com base em feedbacks.
+Este projeto me desafiou a aplicar IA de forma que exercitei a comunicação entre áreas técnicas distintas (Java, Python, Front-end), além da organização do trabalho em equipe com foco em testar e fazer o melhor prompt para o llm. O ciclo de testes e validações também fortaleceu minha visão de produto e capacidade de adaptação com base em feedbacks.
 </details>
 
