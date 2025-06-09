@@ -327,7 +327,7 @@ Durante o desenvolvimento deste projeto, focamos em aprimorar a organização da
 **Problema** Cuidadores de pessoas com Alzheimer frequentemente enfrentam desafios na tomada de decisões e na obtenção de informações confiáveis e específicas sobre o cuidado diário, principalmente em situações emergenciais ou pouco abordadas nos materiais convencionais.
 **Desafio:** Desenvolver uma solução tecnológica baseada em inteligência artificial que ofereça suporte informativo e personalizado a cuidadores, com embasamento científico confiável. </br></br>
 **Solução:** Desenvolvemos uma aplicação que utiliza uma LLM (Large Language Model) combinada com a técnica de RAG (Retrieval-Augmented Generation), treinada com uma base de documentos científicos relacionados ao Alzheimer. A ferramenta permite ao cuidador consultar a IA sobre dúvidas relacionadas aos cuidados, recebendo respostas fundamentadas.
-Além disso, o sistema conta com um módulo de Human Feedback, onde o usuário pode visualizar respostas geradas por dois modelos diferentes e avaliá-las com base em critérios de clareza, relevância e utilidade, permitindo o aprimoramento contínuo do sistema.</br></br>
+Além disso, o sistema conta com um módulo de Human Feedback, onde o usuário pode visualizar respostas geradas por dois modelos diferentes e avaliá-las com base em critérios  permitindo o aprimoramento contínuo do sistema.</br></br>
 
 **GitHub:** [Projeto](https://github.com/MirageGroup/API_MirageGroup_6_Semestre)</br></br>
 
