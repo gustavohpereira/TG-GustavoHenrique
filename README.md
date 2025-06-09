@@ -323,7 +323,7 @@ Durante o desenvolvimento deste projeto, focamos em aprimorar a organização da
 **Data:** *Fevereiro/2025*</br></br>
 **Empresa:** *DOMROCK*</br></br>
 **Area de Atuação da empresa:** *Gestão de dados e inteligencia artificial*</br></br>
-**Professor responsavel:** *JOSE WALMIR GONCALVES DUQUE*</br></br>
+**Professor responsavel:** *Eduardo Sakaue*</br></br>
 **Problema** Cuidadores de pessoas com Alzheimer frequentemente enfrentam desafios na tomada de decisões e na obtenção de informações confiáveis e específicas sobre o cuidado diário, principalmente em situações emergenciais ou pouco abordadas nos materiais convencionais.
 **Desafio:** Desenvolver uma solução tecnológica baseada em inteligência artificial que ofereça suporte informativo e personalizado a cuidadores, com embasamento científico confiável. </br></br>
 **Solução:** Desenvolvemos uma aplicação que utiliza uma LLM (Large Language Model) combinada com a técnica de RAG (Retrieval-Augmented Generation), treinada com uma base de documentos científicos relacionados ao Alzheimer. A ferramenta permite ao cuidador consultar a IA sobre dúvidas relacionadas aos cuidados, recebendo respostas fundamentadas.
