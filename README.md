@@ -315,4 +315,59 @@ Neste projeto atuei como Dev e desenvolvi a base do back-end e conexão com o MY
 
 Durante o desenvolvimento deste projeto, focamos em aprimorar a organização da equipe, dividindo as responsabilidades de forma equilibrada entre todos os membros. Essa estratégia garantiu que cada pessoa pudesse contribuir de forma significativa e trabalhar dentro de sua especialidade, aumentando a eficiência e a qualidade do projeto. Mantive a comunicação clara e frequente, promovendo alinhamentos regulares para acompanhar o progresso de cada tarefa e garantindo que todos se sentissem apoiados e engajados no processo. Além disso, estimulei a colaboração ao incentivar trocas de ideias e feedbacks construtivos entre os integrantes, o que fortaleceu o trabalho em equipe e a entrega dos resultados.
 </details>
+<summary>6º Semestre (2025 - 1) </summary>
+</br>
+
+**Data:** *Fevereiro/2025*</br></br>
+**Empresa:** *DOMROCK*</br></br>
+**Area de Atuação da empresa:** *Gestão de dados e inteligencia artificial*</br></br>
+**Professor responsavel:** *JOSE WALMIR GONCALVES DUQUE*</br></br>
+**Problema** Cuidadores de pessoas com Alzheimer frequentemente enfrentam desafios na tomada de decisões e na obtenção de informações confiáveis e específicas sobre o cuidado diário, principalmente em situações emergenciais ou pouco abordadas nos materiais convencionais.
+**Desafio:** Desenvolver uma solução tecnológica baseada em inteligência artificial que ofereça suporte informativo e personalizado a cuidadores, com embasamento científico confiável. </br></br>
+**Solução:** Desenvolvemos uma aplicação que utiliza uma LLM (Large Language Model) combinada com a técnica de RAG (Retrieval-Augmented Generation), treinada com uma base de documentos científicos relacionados ao Alzheimer. A ferramenta permite ao cuidador consultar a IA sobre dúvidas relacionadas aos cuidados, recebendo respostas fundamentadas.
+Além disso, o sistema conta com um módulo de Human Feedback, onde o usuário pode visualizar respostas geradas por dois modelos diferentes e avaliá-las com base em critérios de clareza, relevância e utilidade, permitindo o aprimoramento contínuo do sistema.</br></br>
+
+**GitHub:** [Projeto]([https://github.com/MirageGroup/API_MirageGroup_5_Semestre](https://github.com/MirageGroup/API_MirageGroup_6_Semestre))</br></br>
+
+<div align="center">
+![image](https://github.com/user-attachments/assets/9b9fdac4-9bdf-4de0-aca0-5ce31401e93a)
+
+</div>
+
+### Tecnologias Utilizadas
+
+- **vue3**: Utilizado tanto no Front-end da aplicação
+- **tailwind**: Estilização do front-end
+- **TypeScript**: Linguagem utilizada para o desenvolvimento frontend.
+- **SpringBoot**: Backend responsável por gerenciar as funcionalidades de review da aplicação.
+- **Python**: Utilizado para fazer o back-end e o llm
+-  **Fastapi**: Utilizado para fazer a API rest de nossa llm python
+- **MongoDB**: Banco de dados NoSQL utilizado para armazenar feedbacks dos modelos.
+- **Chroma**: Banco vetorial utilizado para armazenar e recuperar documentos de forma semântica com base em embeddings, essencial para o funcionamento do RAG.
+
+---
+
+### Contribuições Pessoais
+
+Fui responsável por fazer manutenções na arquitetura da llm e seu prompt, além de configurar a comunicação entre o FastAPI e o front-end via Spring Boot. Trabalhei tambem em auxilios no front-end como digitação da resposta em tempo real e bugs de requisição para o spring-boot.Alem de fazer manutenções na comunicação front-spring-boot-fastAPI
+
+
+### Hard Skills
+
+
+- **vue3**: Faço/uso com autonomia
+- **tailwind**: Faço/uso com autonomia
+- **TypeScript**: Faço/uso com autonomia
+- **SpringBoot**: Faço/uso com autonomia.
+- **Python**: Faço/uso com autonomia
+- **Fastapi**: Faço/uso com ajuda
+- **MongoDB**: Faço/uso com autonomia.
+- **Chroma**: Faço/uso com ajuda.
+
+---
+
+### Soft Skills
+
+Este projeto me desafiou a aplicar IA de forma responsável e humanizada, desenvolvendo empatia pelas dificuldades de quem cuida de pessoas com Alzheimer. Exercitei a comunicação entre áreas técnicas distintas (Java, Python, Front-end), além da organização do trabalho em equipe com foco em impacto social real. O ciclo de testes e validações com usuários simulados também fortaleceu minha visão de produto e capacidade de adaptação com base em feedbacks.
+</details>
 
